@@ -1,4 +1,4 @@
-##Low-Resource Language NLP Experiment: Ataya
+## Low-Resource Language NLP Experiment: Ataya
 This project explores simple NLP techniques for a low-resource language (Atayal),
 including tokenization and basic corpus processing.
 
