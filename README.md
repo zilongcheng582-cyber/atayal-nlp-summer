@@ -1,4 +1,6 @@
-# Atayal NLP Summer Project
+#Low-Resource Language NLP Experiment: Ataya
+This project explores simple NLP techniques for a low-resource language (Atayal),
+including tokenization and basic corpus processing.
 
 A low-resource NLP pipeline for the Zeyuan dialect of Atayal,
 based on aligned text and audio data from Taiwan's K-12 curriculum.
